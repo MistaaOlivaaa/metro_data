@@ -1,0 +1,7 @@
+-- Load cleaned CSV files with your database's CSV import command.
+-- Example for SQLite:
+-- .mode csv
+-- .import data/processed/routes_clean.csv routes
+-- .import data/processed/stops_clean.csv stops
+-- .import data/processed/stop_times_clean.csv stop_times
+-- .import data/processed/trips_clean.csv trips
