@@ -13,7 +13,7 @@ carte et explorer les trajets disponibles.
 ## Installation
 
 ```bash
-git clone <url-du-depot>
+git clone https://github.com/MistaaOlivaaa/metro_data.git
 cd metro_data
 python3 -m venv .venv
 source .venv/bin/activate
